@@ -1,8 +1,5 @@
 # Geeks-for-Geeks-code-Practice
 
-
-## 📊 GeeksforGeeks Practice Stats
-
-![GFG Problems Solved](https://geeksforgeeks-stats-api.herokuapp.com/?userName=kalaiyasv64)
+[![Kalaiyarasu's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<kalaiyasv64>)](https://github.com/kalaiyarasumr/Geeks-for-Geeks-code-Practice)
 
 <!-- Replace 'your_gfg_username' with your actual GeeksforGeeks username -->
